@@ -1,0 +1,46 @@
+------------------------------------------------------------------------
+r82 | TheCheat5 | 2010-10-11 00:11:41 +0000 (Mon, 11 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/CooldownCount.lua
+
+Removed flashing of cooldown remaining text until I can figure out a way to make it non-FPS-dependent
+------------------------------------------------------------------------
+r81 | TheCheat5 | 2010-10-05 18:57:37 +0000 (Tue, 05 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/CooldownCount.lua
+
+Fixed not playing well with new raid frames. Also fixed same issue with focus and targetoftarget frame.
+------------------------------------------------------------------------
+r80 | TheCheat5 | 2010-09-27 21:12:01 +0000 (Mon, 27 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/CooldownCount.toc
+
+Added X-Credits to toc
+------------------------------------------------------------------------
+r79 | TheCheat5 | 2010-09-27 20:59:59 +0000 (Mon, 27 Sep 2010) | 1 line
+Changed paths:
+   A /trunk/Bindings.xml
+   A /trunk/Changelog-CooldownCount-r67210.txt
+   A /trunk/Changelog-CooldownCount-r78.txt
+   A /trunk/Changelog-CooldownCount-r80338.txt
+   M /trunk/CooldownCount.lua
+   M /trunk/CooldownCount.toc
+   A /trunk/CooldownCount.xml
+   A /trunk/CooldownCount_Cosmos.lua
+   A /trunk/CooldownCount_Cosmos.xml
+   A /trunk/CooldownCount_Options.lua
+   A /trunk/localization.de.lua
+   A /trunk/localization.fr.lua
+   A /trunk/localization.lua
+   A /trunk/source.wau
+   A /trunk/ziplist.wau
+
+Initial re-upload for 3.3.5/4.0.1
+------------------------------------------------------------------------
+r78 | 01satkins | 2008-10-16 18:06:39 +0000 (Thu, 16 Oct 2008) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/.pkgmeta
+
+Fixed LSM3 external url, Cleaned up SVN properties
+------------------------------------------------------------------------
